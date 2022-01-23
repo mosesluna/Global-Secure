@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  font-family: "Consolas";
+}
+
+.title {
+  text-align: center;
+  margin-top: 10px;
+  font-size: 24px;
+}
+
+.top-bar {
+  background-color: #343a40 !important;
+  border-radius: 5px;
+  color: white;
+  margin-bottom: auto;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+}
+
+.about-content,
+.about-content > * {
+  background-color: rgb(182, 182, 182);
+}
+
+body {
+  height: 100px;
+  min-width: 500px;
+}
+
+div {
+  padding: 10px;
+  overflow: hidden;
+}
+
+.authors {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  text-align: center;
+  font-size: 12px;
+}
+
+.socials > a,
+.socials > img {
+  text-decoration: none !important;
+  color: black;
+}
+
+.socials > a > img {
+  height: 20px;
+  width: 20px;
+}

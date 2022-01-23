@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Password Saver",
+  "description": "Save Passwords Locally to Your PC!",
+  "version": "1.0",
+  "icons": { "128": "GlobalSecure.png" },
+  "permissions": ["storage", "activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
