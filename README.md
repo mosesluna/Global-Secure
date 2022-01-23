@@ -1,8 +1,8 @@
 # Global-Secure <br />
 
-Submission for MinneHack 2022
+Submission for MinneHack 2022 <br />
 
-Authors/Group:
-Peter Mangialardi: https://github.com/PeterM45
-Moses Luna: https://github.com/mosesluna
+Authors/Group: <br />
+Peter Mangialardi: https://github.com/PeterM45 <br />
+Moses Luna: https://github.com/mosesluna 
 
